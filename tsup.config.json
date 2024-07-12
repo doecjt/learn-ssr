@@ -1,5 +1,0 @@
-{
-  "entry": ["./App.jsx"],
-  "format": "esm",
-  "clean": true
-}
